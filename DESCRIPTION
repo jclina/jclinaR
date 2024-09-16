@@ -1,0 +1,14 @@
+Package: jclinaR
+Type: Package
+Title: my misc. functions 
+Version: 0.1.0
+Author: Julianne Clina
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+imports: 
+  agcounts 
+RoxygenNote: 7.3.2
